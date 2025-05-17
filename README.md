@@ -53,7 +53,7 @@ resposta_final_pergunta(pergunta)
 
 ## Autor
 
-Este projeto foi idealizado e implementado por \[Seu Nome Aqui] durante a Imersão IA 2025 (Alura + Google).
+Este projeto foi idealizado e implementado por \[Marcio Luiz] durante a Imersão IA 2025 (Alura + Google).
 
 ## Licença
 

@@ -1,4 +1,4 @@
-# HELPTEA - Ajuda para Transtornos do Espectro Autista
+# HELPTEA - Ajuda para familiares de pessoas com Transtornos do Espectro Autista
 
 Este projeto foi desenvolvido como parte da Imersão IA 2025 promovida pela Alura em parceria com o Google. O objetivo é utilizar a API do Google Gemini e os conceitos apresentados nas aulas para construir um sistema de assistência interativa para familiares de pessoas com TEA (Transtorno do Espectro Autista).
 
@@ -53,7 +53,7 @@ resposta_final_pergunta(pergunta)
 
 ## Autor
 
-Este projeto foi idealizado e implementado por \[Marcio Luiz] durante a Imersão IA 2025 (Alura + Google).
+Este projeto foi idealizado e implementado por Marcio Luiz durante a Imersão IA 2025 (Alura + Google).
 
 ## Licença
 
@@ -66,3 +66,9 @@ Caso deseje expandir o projeto futuramente, considere incluir:
 * Geolocalização para busca de ONGs e recursos na cidade informada
 * Interface via Streamlit ou app
 * Armazenamento de histórico de perguntas e respostas
+
+## Contatos
+
+- **E-mail**: marcio.asriel@gmail.com
+- **LinkedIn**: [Marcio Luiz](https://www.linkedin.com/in/marcioluiz-multicloud/)
+- **WhatsApp**: +47 99926-1250
